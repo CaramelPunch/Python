@@ -1,0 +1,5 @@
+## sweep.py instructions ##
+
+1) open cmd.exe
+2) Navigate to 'sweep.py' location
+3) type 'py -v <version> sweep.py <ip/hostname>'
